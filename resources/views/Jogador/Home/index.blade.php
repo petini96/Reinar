@@ -15,7 +15,7 @@
 
                 <div class="input-group mb-3 card py-3">
                     <div class="col-10 mx-auto">
-                        <h4>Busque um jogador</h4>
+                        <h4>Busque um jogador Reinar</h4>
                         <hr>
                         <p>
                             Sua avaliação pode fazer com que outro jogador se destaque, ou consiga alguma oportunidade.
