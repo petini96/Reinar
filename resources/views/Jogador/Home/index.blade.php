@@ -14,6 +14,9 @@
             <input  id="habilidade" type="hidden" value="{{auth()->user()['jogador']['habilidade']}}">
 
                 <div class="input-group mb-3 card py-3">
+                    <div class="col-12">
+                        <h3>Bem Vindo</h3>
+                    </div>
                     <div class="col-10 mx-auto">
                         <h4>Busque um jogador Reinar</h4>
                         <hr>
